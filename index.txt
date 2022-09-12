@@ -1,1 +1,4 @@
 metodos de la gestion de software 
+prueba git 
+ver comandos 
+fecha: 12/09/2022
